@@ -1,0 +1,16 @@
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ref\ClassAndObject.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\bin\Debug\net5.0\ClassAndObject.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.csprojAssemblyReference.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ref\ClassAndObject.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\ClassAndObject\obj\Debug\net5.0\ClassAndObject.genruntimeconfig.cache
