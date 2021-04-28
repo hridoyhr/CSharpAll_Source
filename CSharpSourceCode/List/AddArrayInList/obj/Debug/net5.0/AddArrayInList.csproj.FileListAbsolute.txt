@@ -1,0 +1,15 @@
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\ref\AddArrayInList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\bin\Debug\net5.0\AddArrayInList.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\ref\AddArrayInList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\AddArrayInList\obj\Debug\net5.0\AddArrayInList.genruntimeconfig.cache
