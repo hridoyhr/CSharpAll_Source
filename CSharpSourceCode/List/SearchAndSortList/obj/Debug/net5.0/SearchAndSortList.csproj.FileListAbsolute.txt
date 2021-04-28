@@ -1,0 +1,16 @@
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\ref\SearchAndSortList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\bin\Debug\net5.0\SearchAndSortList.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.csprojAssemblyReference.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\ref\SearchAndSortList.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C--All_Source\CSharpSourceCode\List\SearchAndSortList\obj\Debug\net5.0\SearchAndSortList.genruntimeconfig.cache
