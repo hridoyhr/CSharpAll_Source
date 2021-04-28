@@ -38,6 +38,12 @@ namespace Example1
             {
                 Console.WriteLine($"The name{names[index]} is at idex {index}");
             }
+
+            names.Sort();
+            foreach(var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}");
+            }
         }
     }
 }
