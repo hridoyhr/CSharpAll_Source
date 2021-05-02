@@ -1,0 +1,16 @@
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.csprojAssemblyReference.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\ref\Example-1.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\bin\Debug\net5.0\Example-1.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\ref\Example-1.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\Example-1\obj\Debug\net5.0\Example-1.genruntimeconfig.cache
