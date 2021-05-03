@@ -1,0 +1,15 @@
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\ref\stringCompare.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\bin\Debug\net5.0\stringCompare.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\ref\stringCompare.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\CSharpAllTopic\stringCompare\obj\Debug\net5.0\stringCompare.genruntimeconfig.cache

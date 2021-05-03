@@ -92,10 +92,10 @@ namespace ArrayEx_2
             #endregion
 
             #region Another example Array Copy
-            int[] f = new int[100];
-            int[] s = new int[100];
+            //int[] f = new int[100];
+            //int[] s = new int[100];
 
-            int i, n;
+            //int i, n;
 
             #region another approach
             //Console.WriteLine("Input the number of array: ");
@@ -118,30 +118,47 @@ namespace ArrayEx_2
             //    Console.WriteLine(item);
             #endregion
 
-            Console.WriteLine("Enter array number : ");
-            n = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter array number : ");
+            //n = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Input {0} elements in the array: ",n);
-            for(i = 0; i < n; i++)
-            {
-                Console.Write("element-{0} = ",i);
-                f[i] = Convert.ToInt32(Console.ReadLine());
-            }
+            //Console.WriteLine("Input {0} elements in the array: ",n);
+            //for(i = 0; i < n; i++)
+            //{
+            //    Console.Write("element-{0} = ",i);
+            //    f[i] = Convert.ToInt32(Console.ReadLine());
+            //}
 
-            for(i = 0; i < n; i++)
-            {
-                s[i] = f[i];
-            }
+            //for(i = 0; i < n; i++)
+            //{
+            //    s[i] = f[i];
+            //}
 
-            Console.WriteLine("First array\n ");
-            for(i = 0; i < n; i++)
-                Console.Write("{0} ",f[i]);
+            //Console.WriteLine("First array\n ");
+            //for(i = 0; i < n; i++)
+            //    Console.Write("{0} ",f[i]);
 
-            Console.WriteLine("\nCopy to First array:  ");
-            for (i = 0; i < n; i++)
-                Console.Write("{0} ",s[i]);
+            //Console.WriteLine("\nCopy to First array:  ");
+            //for (i = 0; i < n; i++)
+            //    Console.Write("{0} ",s[i]);
 
             #endregion
+
+            #region Count Duplicate number
+            //int[] array = { 10, 5, 10, 2, 2, 3, 4, 5, 5, 6, 7, 8, 9, 11, 12, 12 };
+            //int count = 1;
+
+            //for(int i = 0; i < array.Length; i++)
+            //{
+            //    for(int j = i; j < array.Length -1; j++)
+            //    {
+            //        if (array[j] == array[j + 1])
+            //            count = count + 1;
+            //    }
+            //    Console.WriteLine("\n " + array[i] + "duplicate" + count );
+            //}
+            #endregion
+
+
         }
     }
 }

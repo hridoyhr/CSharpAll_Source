@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayEx-1", "ArrayEx-1\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayEx-2", "ArrayEx-2\ArrayEx-2.csproj", "{9419773B-2579-4375-89D8-3EE7D61FB1A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringCompare", "stringCompare\stringCompare.csproj", "{AAA062B4-FA45-4210-B072-0DE92147C177}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9419773B-2579-4375-89D8-3EE7D61FB1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9419773B-2579-4375-89D8-3EE7D61FB1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9419773B-2579-4375-89D8-3EE7D61FB1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA062B4-FA45-4210-B072-0DE92147C177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA062B4-FA45-4210-B072-0DE92147C177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA062B4-FA45-4210-B072-0DE92147C177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA062B4-FA45-4210-B072-0DE92147C177}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
