@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismEx-1", "Polymor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorEx-1", "OperatorEx-1\OperatorEx-1.csproj", "{FEB7AD6C-4073-4F8C-B090-229C789B0873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx-1", "InterfaceEx-1\InterfaceEx-1.csproj", "{6DDF5CCE-206F-45A5-ADCA-BF27C8D44190}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx-1", "InterfaceEx-1\InterfaceEx-1.csproj", "{E008F2A4-FC23-4F14-970B-87EF86F54FEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,10 +83,10 @@ Global
 		{FEB7AD6C-4073-4F8C-B090-229C789B0873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB7AD6C-4073-4F8C-B090-229C789B0873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEB7AD6C-4073-4F8C-B090-229C789B0873}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6DDF5CCE-206F-45A5-ADCA-BF27C8D44190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6DDF5CCE-206F-45A5-ADCA-BF27C8D44190}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6DDF5CCE-206F-45A5-ADCA-BF27C8D44190}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6DDF5CCE-206F-45A5-ADCA-BF27C8D44190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E008F2A4-FC23-4F14-970B-87EF86F54FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E008F2A4-FC23-4F14-970B-87EF86F54FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E008F2A4-FC23-4F14-970B-87EF86F54FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E008F2A4-FC23-4F14-970B-87EF86F54FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
