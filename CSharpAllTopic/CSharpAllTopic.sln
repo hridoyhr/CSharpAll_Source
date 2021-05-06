@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorEx-1", "OperatorEx-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceEx-1", "InterfaceEx-1\InterfaceEx-1.csproj", "{E008F2A4-FC23-4F14-970B-87EF86F54FEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEx-2", "InterfaceEx-2\InterfaceEx-2.csproj", "{B30A33DD-7EDD-4625-9938-5BE6F8ABC3F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceEx-2", "InterfaceEx-2\InterfaceEx-2.csproj", "{B30A33DD-7EDD-4625-9938-5BE6F8ABC3F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-2", "Example-2\Example-2.csproj", "{FB661DB1-A29A-47F9-A5AC-B54F98272479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example-2", "Example-2\Example-2.csproj", "{FB661DB1-A29A-47F9-A5AC-B54F98272479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample-1", "ClassExample-1\ClassExample-1.csproj", "{5A4347F3-7200-4478-A74D-87BF097B4B39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{FB661DB1-A29A-47F9-A5AC-B54F98272479}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB661DB1-A29A-47F9-A5AC-B54F98272479}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB661DB1-A29A-47F9-A5AC-B54F98272479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4347F3-7200-4478-A74D-87BF097B4B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4347F3-7200-4478-A74D-87BF097B4B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4347F3-7200-4478-A74D-87BF097B4B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4347F3-7200-4478-A74D-87BF097B4B39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
