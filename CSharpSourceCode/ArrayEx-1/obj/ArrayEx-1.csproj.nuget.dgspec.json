@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C--All_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj": {}
+    "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C#-All-Topic\\CSharpAll_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj": {}
   },
   "projects": {
-    "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C--All_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj": {
+    "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C#-All-Topic\\CSharpAll_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C--All_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj",
+        "projectUniqueName": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C#-All-Topic\\CSharpAll_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj",
         "projectName": "ArrayEx-1",
-        "projectPath": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C--All_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj",
+        "projectPath": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C#-All-Topic\\CSharpAll_Source\\CSharpSourceCode\\ArrayEx-1\\ArrayEx-1.csproj",
         "packagesPath": "C:\\Users\\Hridoy\\.nuget\\packages\\",
-        "outputPath": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C--All_Source\\CSharpSourceCode\\ArrayEx-1\\obj\\",
+        "outputPath": "G:\\All C# File\\Dev Skill All Course\\Asp.NetCoreMvc-AllFile-B5\\SourceCode\\C#-All-Topic\\CSharpAll_Source\\CSharpSourceCode\\ArrayEx-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hridoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
