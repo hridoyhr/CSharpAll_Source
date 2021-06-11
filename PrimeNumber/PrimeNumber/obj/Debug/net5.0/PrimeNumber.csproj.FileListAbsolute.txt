@@ -14,3 +14,19 @@ C:\Users\Hridoy\OneDrive\Desktop\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeN
 C:\Users\Hridoy\OneDrive\Desktop\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
 C:\Users\Hridoy\OneDrive\Desktop\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
 C:\Users\Hridoy\OneDrive\Desktop\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csprojAssemblyReference.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+G:\All C# File\Dev Skill All Course\Asp.NetCoreMvc-AllFile-B5\SourceCode\C#-All-Topic\CSharpAll_Source\PrimeNumber\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache

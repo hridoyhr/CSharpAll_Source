@@ -95,6 +95,14 @@ namespace PrimeNumber
             obj.CAddress = "Dhanmondi, Dhaka";
 
             obj.CDisplay();
+
+            var x = obj.PrintallOdd(100);
+            Console.WriteLine(x);
+
+            var w = obj.PrintAllEven(50);
+            Console.WriteLine(w);
+
+            obj.Nothing();
         }
         //1
         public string Sum(int num1, int num2)
@@ -345,6 +353,139 @@ namespace PrimeNumber
 
         }
 
+        //32
+        public int PrintallOdd(int b)
+        {
+            for(int a = 0; a < b; a++)
+            {
+                if(a % 2 != 0)
+                {
+                    Console.WriteLine("Odd = {0}", a);
+                }
+                else
+                    Console.WriteLine();
+            }
+            return b;
+        }
+        //33
+        public int PrintAllEven(int n)
+        {
+            for(int i = 0; i <= n; i++)
+            {
+                if(i % 2 == 0)
+                    Console.WriteLine("Even = {0}", i);
+                else
+                    Console.WriteLine();
+            }
+            return n;
+        }
+        //34
+        public bool DoYouWant(int a )
+        {
+            if (a == 1)
+                return true;
+            else if (a == 2)
+                return false;
+            else
+                return false;
+        }
+        //35
+        public void Nothing()
+        {
+            Console.WriteLine("Return type method");
+        }
+        //36
+        public double DSum(double a, double b)
+        {
+            return a + b;
+        }
+        //37
+        private string intLengths(int a, string b)
+        {
+            if (a.GetType() == b.GetType())
+                return "This two values data type are equal";
+            else
+                return "Data type are not equal";
+        }
+        //38
+
+        public int sumInt(int a, int b, int c)
+        {
+            return a + b + c;
+        }
+
+        //39
+        public bool IsItValid(string a, string b)
+        {
+            var c = a + b;
+            Console.WriteLine(c);
+            return true;
+        }
+        //40
+        protected void NoReturntype(int a, int b)
+        {
+            int sum = a + b;
+        }
+        //41
+        public void Names()
+        {
+            string firstName = "hasan";
+            string lastName = "hasib";
+            Console.WriteLine($"{firstName}, {lastName} ");
+        }
+        //42
+        public string StdInfo(string FullName, string Email, string Address)
+        {
+            Console.WriteLine(FullName);
+            Console.WriteLine(Email);
+            Console.WriteLine(Address);
+
+            return "Submitted";
+        }
+        //43
+        public float divFloat(float a, float b, int c)
+        {
+            var div = (a + b) / c;
+            Console.WriteLine(div);
+            return 4.555f;
+        }
+        //44
+        public string Sumfloat(float a, float b)
+        {
+            var sum = a + b;
+            Console.WriteLine(sum);
+            return "Floating";
+        }
+        //45
+        private float MulFloat(float a, float b)
+        {
+            return a * b;
+        }
+        //46 
+        internal double SumDouble(double a, double b)
+        {
+            return a + b;
+        }
+        //47
+        public double Calculate(double a, double b, double c)
+        {
+            var cal = (a + b) / c;
+            Console.WriteLine(cal);
+            return 12.45;
+        }
+        //48
+        protected double Equations()
+        {
+            return 4555.66;
+        }
+        //49 
+        private double MulDouble(double a, double c, double d)
+        {
+            return 3.5 + a + c + d;
+        }
+        //50
+
+        
 
 
     }
